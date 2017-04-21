@@ -2,7 +2,7 @@
 
 Deploy [Mattermost](https://about.mattermost.com/) to Heroku in preview mode. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mattermost/mattermost-heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Teksify/mattermost-heroku)
 
 _Note: Preview mode on Heroku does not include email or persistent storage._
 
